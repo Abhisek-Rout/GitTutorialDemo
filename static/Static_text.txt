@@ -1,0 +1,2 @@
+Changed the text file within static folder
+How are u doing?
